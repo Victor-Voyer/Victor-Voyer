@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Victor-Voyer
-- 👀 I’m interested in Rugby - Developpement Web
+- 👀 I’m interested in Rugby - Developpement Web - Japan's universe !
 - 🌱 I’m currently learning JS FullStack
 - 💞️ I’m looking to collaborate on rugby's projets !
 - 📫 How to reach me : victor.voyer@outlook.fr
